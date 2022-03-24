@@ -1,0 +1,12 @@
+
+# Maven #
+#########
+**/target/*
+target
+
+# Other IDE's#
+##############
+\.classpath
+\.project
+\.settings
+/test-output
